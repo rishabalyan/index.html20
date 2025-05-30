@@ -1,0 +1,8 @@
+<form action="/action.php">
+    <input type="username" placeholder="Enter your username here">
+     <input type="password" placeholder="Enter your password here"> 
+</form>
+
+
+</body>
+</html>
